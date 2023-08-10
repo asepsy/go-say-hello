@@ -1,3 +1,3 @@
-module github.com/asepsy/go-say-hello.git
+module github.com/asepsy/go-say-hello
 
 go 1.20
